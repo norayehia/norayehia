@@ -1,6 +1,6 @@
 ### Hi there 👋I'm Nora Yehia
 
-Machine learning Engineer | Data scientist|Flutter developer from Egypt 🇪🇬
+ Data scientist | Flutter developer from Egypt 🇪🇬
 
 
 
