@@ -1,12 +1,14 @@
-### Hi there 👋
+### Hi there 👋I'm Nora Yehia
 
 <!--
 **norayehia/norayehia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I am certified by Microsoft, IBM and Huawei
+- 👩‍🎓I have a Bachelor's degree in medical informatics from Mansoura University faculty of computer and information science
+- 👩‍🎓I have a master's degree in AI and Data science from the University of Ottawa
+- 📝 I regularly write articles onhttps://www.linkedin.com/in/nora-yehia-693b74189/
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
