@@ -16,4 +16,5 @@
 
 📫 How to reach me noryehia3@gmail.com
 
-📄 Know about my experiences https://drive.google.com/file/d/100QB1mp_EGGXjUyihN4xYpV4GPtRSxPp/view
+📄 Know about my experiences https://drive.google.com/file/d/100QB1mp_EGGXjUyihN4xYpV4GPtRSxPp/view ,https://www.kaggle.com/kokeyehya
+ 
